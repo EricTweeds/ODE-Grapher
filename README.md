@@ -15,4 +15,5 @@ enter as:
 'sin(2*x)'
 
 Output:
-![alt tag]()
+
+![alt tag](https://github.com/EricTweeds/ODE-Grapher/blob/master/example1.png?raw=true)
