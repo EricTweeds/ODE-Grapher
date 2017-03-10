@@ -7,7 +7,7 @@ Python Script that creates graphs needed for an ODE's project
 - Use * for multiplication, / for division, \** for exponent, exp(x) for e^x
 - When all the functions for the graph are entered, press enter and leave the final equation blank, the script will interpret this as saying done.
 
-## Examples:
+## Example:
 y(t) = sin(2t)
 
 enter as:
@@ -15,3 +15,4 @@ enter as:
 'sin(2*x)'
 
 Output:
+![alt tag]()
