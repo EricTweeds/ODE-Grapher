@@ -6,6 +6,8 @@ Python Script that creates graphs needed for an ODE's project
 - No need to add y=, just include everything past the equals sign
 - Use * for multiplication, / for division, \** for exponent, exp(x) for e^x
 - When all the functions for the graph are entered, press enter and leave the final equation blank, the script will interpret this as saying done.
+- Up to 8 equations can be entered, it is recomended to cap it at 3 however
+- The range of the X-axis is always 0 - 9 since that is the range specified in the project, the range can be changed from within the code
 
 ## Example:
 y(t) = sin(2t)
